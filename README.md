@@ -66,6 +66,12 @@ A análise revelou padrões claros de comportamento dos usuários. Com esses ins
 
 ---
 
+
+<img width="600" height="371" alt="AVERAGE de TotalSteps e AVERAGE de TotalMinutesAsleep" src="https://github.com/user-attachments/assets/4bfe2ceb-8812-4aac-8531-c34f17709553" />
+
+
+<img width="600" height="371" alt="AVERAGE de TotalSteps e AVERAGE de TotalMinutesAsleep (1)" src="https://github.com/user-attachments/assets/93ab19f0-9a00-4978-bb2e-3c2a86e867a8" />
+
 ## 📎 Links importantes
 
 (https://docs.google.com/spreadsheets/d/1QmYQtvtM2aOkRYehsRXgRZOCJ9E4ib7rW0eRB4XnH8I/edit?gid=943110253#gid=943110253) 
